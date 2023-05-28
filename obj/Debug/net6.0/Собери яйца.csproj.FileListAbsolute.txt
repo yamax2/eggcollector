@@ -1,0 +1,28 @@
+C:\Users\Mi\Desktop\Собери яйца\bin\Debug\net6.0\Собери яйца.exe
+C:\Users\Mi\Desktop\Собери яйца\bin\Debug\net6.0\Собери яйца.deps.json
+C:\Users\Mi\Desktop\Собери яйца\bin\Debug\net6.0\Собери яйца.runtimeconfig.json
+C:\Users\Mi\Desktop\Собери яйца\bin\Debug\net6.0\Собери яйца.dll
+C:\Users\Mi\Desktop\Собери яйца\bin\Debug\net6.0\Собери яйца.pdb
+C:\Users\Mi\Desktop\Собери яйца\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\Mi\Desktop\Собери яйца\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Mi\Desktop\Собери яйца\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Mi\Desktop\Собери яйца\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\Mi\Desktop\Собери яйца\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Mi\Desktop\Собери яйца\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Mi\Desktop\Собери яйца\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Mi\Desktop\Собери яйца\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\Mi\Desktop\Собери яйца\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Mi\Desktop\Собери яйца\obj\Debug\net6.0\Собери яйца.csproj.AssemblyReference.cache
+C:\Users\Mi\Desktop\Собери яйца\obj\Debug\net6.0\Собери яйца.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mi\Desktop\Собери яйца\obj\Debug\net6.0\Собери яйца.AssemblyInfoInputs.cache
+C:\Users\Mi\Desktop\Собери яйца\obj\Debug\net6.0\Собери яйца.AssemblyInfo.cs
+C:\Users\Mi\Desktop\Собери яйца\obj\Debug\net6.0\Собери яйца.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\Собери яйца\obj\Debug\net6.0\Собери яйца.csproj.CopyComplete
+C:\Users\Mi\Desktop\Собери яйца\obj\Debug\net6.0\Собери яйца.dll
+C:\Users\Mi\Desktop\Собери яйца\obj\Debug\net6.0\refint\Собери яйца.dll
+C:\Users\Mi\Desktop\Собери яйца\obj\Debug\net6.0\Собери яйца.pdb
+C:\Users\Mi\Desktop\Собери яйца\obj\Debug\net6.0\Собери яйца.genruntimeconfig.cache
+C:\Users\Mi\Desktop\Собери яйца\obj\Debug\net6.0\ref\Собери яйца.dll
+C:\Users\Mi\Desktop\Собери яйца\bin\Debug\net6.0\Content\egg.xnb
+C:\Users\Mi\Desktop\Собери яйца\bin\Debug\net6.0\Content\obstacle.xnb
+C:\Users\Mi\Desktop\Собери яйца\bin\Debug\net6.0\Content\rabbit.xnb
