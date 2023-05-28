@@ -7,7 +7,7 @@ namespace EggCollector
     {
         static void Main()
         {
-            using (var game = new EggCollector())
+            using (var game = new EggCollectorGame())
             {
                 game.Run();
             }
