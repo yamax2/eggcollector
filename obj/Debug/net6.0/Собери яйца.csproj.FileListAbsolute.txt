@@ -26,3 +26,11 @@ C:\Users\Mi\Desktop\Собери яйца\obj\Debug\net6.0\ref\Собери яй
 C:\Users\Mi\Desktop\Собери яйца\bin\Debug\net6.0\Content\egg.xnb
 C:\Users\Mi\Desktop\Собери яйца\bin\Debug\net6.0\Content\obstacle.xnb
 C:\Users\Mi\Desktop\Собери яйца\bin\Debug\net6.0\Content\rabbit.xnb
+C:\Users\Mi\Desktop\EggCollector\obj\Debug\net6.0\Собери яйца.csproj.AssemblyReference.cache
+C:\Users\Mi\Desktop\EggCollector\obj\Debug\net6.0\Собери яйца.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mi\Desktop\EggCollector\obj\Debug\net6.0\Собери яйца.AssemblyInfoInputs.cache
+C:\Users\Mi\Desktop\EggCollector\obj\Debug\net6.0\Собери яйца.AssemblyInfo.cs
+C:\Users\Mi\Desktop\EggCollector\obj\Debug\net6.0\Собери яйца.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\EggCollector\obj\Debug\net6.0\Собери яйца.dll
+C:\Users\Mi\Desktop\EggCollector\obj\Debug\net6.0\refint\Собери яйца.dll
+C:\Users\Mi\Desktop\EggCollector\obj\Debug\net6.0\Собери яйца.pdb

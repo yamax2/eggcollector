@@ -49,8 +49,3 @@
 /processorParam:TextureFormat=Color
 /build:rabbit.png
 
-#begin silverfont.ttf
-/importer:
-/processor:
-/build:silverfont.ttf
-

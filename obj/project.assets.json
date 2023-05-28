@@ -108,11 +108,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mi\\Desktop\\Собери яйца\\Собери яйца.csproj",
+      "projectUniqueName": "C:\\Users\\Mi\\Desktop\\EggCollector\\Собери яйца.csproj",
       "projectName": "Собери яйца",
-      "projectPath": "C:\\Users\\Mi\\Desktop\\Собери яйца\\Собери яйца.csproj",
+      "projectPath": "C:\\Users\\Mi\\Desktop\\EggCollector\\Собери яйца.csproj",
       "packagesPath": "C:\\Users\\Mi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mi\\Desktop\\Собери яйца\\obj\\",
+      "outputPath": "C:\\Users\\Mi\\Desktop\\EggCollector\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -4,9 +4,9 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/Mi/Desktop/Собери яйца/Content/egg.png</File>
-    <File>C:/Users/Mi/Desktop/Собери яйца/Content/obstacle.png</File>
-    <File>C:/Users/Mi/Desktop/Собери яйца/Content/rabbit.png</File>
+    <File>C:/Users/Mi/Desktop/EggCollector/Content/egg.png</File>
+    <File>C:/Users/Mi/Desktop/EggCollector/Content/obstacle.png</File>
+    <File>C:/Users/Mi/Desktop/EggCollector/Content/rabbit.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

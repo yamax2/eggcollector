@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/Mi/Desktop/Собери яйца/Content/obstacle.png</SourceFile>
+  <SourceFile>C:/Users/Mi/Desktop/EggCollector/Content/obstacle.png</SourceFile>
   <SourceTime>2023-05-06T11:26:57.2756561+05:00</SourceTime>
-  <DestFile>C:/Users/Mi/Desktop/Собери яйца/Content/bin/DesktopGL/Content/obstacle.xnb</DestFile>
-  <DestTime>2023-05-26T21:59:10.3574806+05:00</DestTime>
+  <DestFile>C:/Users/Mi/Desktop/EggCollector/Content/bin/DesktopGL/Content/obstacle.xnb</DestFile>
+  <DestTime>2023-05-28T23:19:42.7222516+05:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T16:44:56+05:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
